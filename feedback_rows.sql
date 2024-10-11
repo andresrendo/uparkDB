@@ -1,0 +1,1 @@
+INSERT INTO "public"."feedback" ("id", "created_at", "type", "comentario", "estacionamiento") VALUES ('1', '2024-10-11 00:34:55.369053+00', 'true', 'no me dejaron entrar al estacionamiento los autobuses', '4');

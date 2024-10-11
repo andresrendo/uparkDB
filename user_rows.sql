@@ -1,0 +1,1 @@
+INSERT INTO "public"."user" ("id", "email", "password") VALUES ('1', 'andres.rendo@correo.unimet.edu.ve', '1234567');

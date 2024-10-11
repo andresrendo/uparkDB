@@ -1,0 +1,1 @@
+INSERT INTO "public"."peak" ("id", "created_at", "type", "id_parking_lot") VALUES ('1', '2024-10-11 00:55:21.515102+00', 'true', '5');
